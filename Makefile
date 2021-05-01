@@ -1,5 +1,5 @@
 CPPFLAGS=-I/usr/include/mariadb
-LDFLAGS=-lmariadb
+LDFLAGS=-lmariadb -lsodium
 
 problem:
 
